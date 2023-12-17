@@ -11,8 +11,8 @@ Dive into the realm of data exploration with my Python-based projects, showcasin
 
 ## Tools and Techniques
 ***Python Libraries:*** Utilized a diverse set of Python libraries such as pandas, NumPy, and matplotlib for robust data analysis.
-**Data Cleaning:** Employed pandas for seamless handling of missing values, outliers, and data inconsistencies.
-**Visualization:** Created dynamic charts and interactive plots using matplotlib and seaborn for a compelling data representation.
-**Lineear Regression:** tp transformed data chaos into visual clarity using the magic of linear regression
+***Data Cleaning:*** Employed pandas for seamless handling of missing values, outliers, and data inconsistencies.
+***Visualization:*** Created dynamic charts and interactive plots using matplotlib and seaborn for a compelling data representation.
+***Lineear Regression:*** tp transformed data chaos into visual clarity using the magic of linear regression
 
 Let's unveil the story within the data using Python's prowess! 📊✨''
